@@ -41,4 +41,11 @@ Trabalho acadêmico desenvolvido pela equipe **InfinityCode** para o curso de An
 1. Clone este repositório ou baixe o projeto compactado:
    ```bash
    git clone [https://github.com/JFS-In2YourMind/TDI-SENAI-ALMOXARIFADO.git](https://github.com/JFS-In2YourMind/TDI-SENAI-ALMOXARIFADO.git)
-Importe o banco de dados utilizando o arquivo de Dump (Dump20261711.sql) no seu MySQL Workbench.Abra a pasta do projeto no NetBeans.Certifique-se de que as bibliotecas da pasta lib estão adicionadas corretamente nas Libraries do projeto.Execute o arquivo principal pressionando F6.👥 Equipe de Desenvolvimento (InfinityCode)IntegrantePerfil GitHub / ContatoJaqueline Felix @JFS-In2YourMindSarah Acacio @sarahacacioGabriel GraçaEquipe InfinityCode (SENAI)   Kauan SilvaEquipe InfinityCode (SENAI)   Raphael FidelisEquipe InfinityCode (SENAI)[cite: 3]
+Importe o banco de dados utilizando o arquivo de Dump (Dump20261711.sql) no seu MySQL Workbench.Abra a pasta do projeto no NetBeans.Certifique-se de que as bibliotecas da pasta lib estão adicionadas corretamente nas Libraries do projeto.Execute o arquivo principal pressionando F6.
+
+👥 Equipe de Desenvolvimento (InfinityCode)IntegrantePerfil 
+GitHub / ContatoJaqueline Felix @JFS-In2YourMind
+Sarah Acacio @sarahacacio
+Gabriel GraçaEquipe InfinityCode (SENAI)  
+Kauan SilvaEquipe InfinityCode (SENAI)  
+Raphael FidelisEquipe InfinityCode (SENAI)
