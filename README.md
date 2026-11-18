@@ -51,6 +51,7 @@ Certifique-se de que as bibliotecas da pasta lib estão adicionadas corretamente
 Execute o arquivo principal (TDIalmoxarifadointerface.java ou TelaLogin) pressionando F6.
 
 👥 Equipe de Desenvolvimento (InfinityCode)
+
 Jaqueline Felix - @JFS-In2YourMind
 
 Sarah Acacio - @sarahacacio
