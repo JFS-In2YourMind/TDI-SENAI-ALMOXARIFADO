@@ -44,9 +44,11 @@ Trabalho acadêmico desenvolvido pela equipe **InfinityCode** para o curso de An
 Importe o banco de dados utilizando o arquivo de Dump (Dump20261711.sql) no seu MySQL Workbench.Abra a pasta do projeto no NetBeans.Certifique-se de que as bibliotecas da pasta lib estão adicionadas corretamente nas Libraries do projeto.Execute o arquivo principal pressionando F6.
 
 👥 Equipe de Desenvolvimento (InfinityCode)
-Integrante Perfil 
+Integrante Perfil
+
 GitHub /
 Contato: 
+
 Jaqueline Felix @JFS-In2YourMind
 Sarah Acacio @sarahacacio
 Gabriel GraçaEquipe InfinityCode (SENAI)  
