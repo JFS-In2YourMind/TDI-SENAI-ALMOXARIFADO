@@ -56,4 +56,5 @@ Sarah Acacio @sarahacacio
 Gabriel GraçaEquipe InfinityCode (SENAI)  
 
 Kauan SilvaEquipe InfinityCode (SENAI)  
+
 Raphael FidelisEquipe InfinityCode (SENAI)
