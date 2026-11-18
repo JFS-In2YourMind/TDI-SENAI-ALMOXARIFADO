@@ -1,8 +1,8 @@
-# TDI Máquinas Agrícolas - Sistema de Gestão de Almoxarifado
+Markdown# TDI Máquinas Agrícolas - Sistema de Gestão de Almoxarifado
 
 Sistema desktop profissional desenvolvido em **Java (Swing / NetBeans)** com banco de dados **MySQL** para o controle de estoque, cadastro de peças, monitoramento de itens críticos e movimentações de entrada e saída.
 
-Trabalho acadêmico desenvolvido pela equipe **InfinityCode** para o curso de Análise e Desenvolvimento de Sistemas do **SENAI**[cite: 3].
+Trabalho acadêmico desenvolvido pela equipe **InfinityCode** para o curso de Análise e Desenvolvimento de Sistemas do **SENAI**.
 
 ---
 
@@ -41,3 +41,4 @@ Trabalho acadêmico desenvolvido pela equipe **InfinityCode** para o curso de An
 1. Clone este repositório ou baixe o projeto compactado:
    ```bash
    git clone [https://github.com/JFS-In2YourMind/TDI-SENAI-ALMOXARIFADO.git](https://github.com/JFS-In2YourMind/TDI-SENAI-ALMOXARIFADO.git)
+Importe o banco de dados utilizando o arquivo de Dump (Dump20261711.sql) no seu MySQL Workbench.Abra a pasta do projeto no NetBeans.Certifique-se de que as bibliotecas da pasta lib estão adicionadas corretamente nas Libraries do projeto.Execute o arquivo principal pressionando F6.👥 Equipe de Desenvolvimento (InfinityCode)IntegrantePerfil GitHub / ContatoJaqueline Felix @JFS-In2YourMindSarah Acacio @sarahacacioGabriel GraçaEquipe InfinityCode (SENAI)   Kauan SilvaEquipe InfinityCode (SENAI)   Raphael FidelisEquipe InfinityCode (SENAI)[cite: 3]
